@@ -1,0 +1,111 @@
+/* dark-theme.css */
+body {
+    background-color: #181a1b;
+    color: #ddd;
+}
+
+h1, h4, h5, h6  {
+    color: #fff ;
+}
+
+
+.slider-text h2 span{
+    color: rgb(69, 150, 255)  !important ;
+
+}
+
+span, li, span.section-text, span.section-text:hover, h2, h3{
+    color: #fff !important ;
+}
+
+
+p{
+    color: rgba(232, 230, 227, 0.7) !important;
+}
+.ftco-about ul.about-info {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    width: 100%; }
+    .ftco-about ul.about-info li {
+      list-style: none;
+      margin-bottom: 10px; }
+      .ftco-about ul.about-info li span {
+        width: calc(100% - 130px); }
+        .ftco-about ul.about-info li span:first-child {
+          font-weight: 600;
+          color: #000000;
+          width: 130px; }
+  
+ 
+
+ .resume-wrap {
+    width: 100%;
+    margin-bottom: 30px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding-bottom: 10px; }
+    .resume-wrap .icon {
+      width: 50px;
+      height: 50px;
+      background: #3e64ff;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      -ms-border-radius: 50%;
+      border-radius: 50%; }
+      .resume-wrap .icon span {
+        color: #fff;
+        font-size: 28px; }
+    .resume-wrap .text {
+      width: calc(100% - 50px); }
+    .resume-wrap .date {
+      font-weight: 700;
+      font-size: 16px;
+      color: rgba(0, 0, 0, 0.6);
+      color: #3e64ff; }
+    .resume-wrap h2 {
+      font-size: 24px;
+      font-weight: 700; }
+    .resume-wrap .position {
+      font-size: 18px;
+      font-weight: 700;
+      color: #fff; }
+
+      .bg-white{
+        background-color: #181a1b !important;
+      }
+
+      .slider-text .subheading {
+        text-transform: uppercase;
+        font-size: 16px;
+        font-weight: 800;
+        color: rgb(69, 150, 255) !important;
+        letter-spacing: 4px; }
+
+        #navi li a
+        {
+          color: #fff;
+        }
+
+        .page .heading{
+           color: rgb(69, 150, 255) !important;
+        }
+
+        resume-wrap .date{
+            color: rgb(69, 150, 255) !important;
+
+        }
+
+        .ftco-hireme h2 span
+{
+  color: rgb(158, 246, 102) !important;
+}
+
+.ftco-navbar-light .navbar-nav > .nav-item > .nav-link span
+{
+    color: fff !important;
+}
+
+
+.ftco-navbar-light.scrolled {
+    background: black !important;
+}
