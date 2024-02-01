@@ -109,3 +109,7 @@ p{
 .ftco-navbar-light.scrolled {
     background: black !important;
 }
+
+#theme{
+  user-select: none;
+}
